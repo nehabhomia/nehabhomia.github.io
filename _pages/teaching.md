@@ -2,14 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at the University of Michigan School of Information.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## University of Michigan School of Information
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Adjunct Lecturer** | April 2021 - Present
 
-{% include courses.liquid %}
+### Courses Taught
+
+- Health Data Analysis
+- Introduction to Applied Data Science
+- Machine Learning in Health
+- Machine Learning Pipelines
+- Health Informatics Seminar
+- Milestone Course
+- Capstone Project Course
