@@ -152,9 +152,7 @@
       "endDate": "2016-10-01",
       "score": "",
       "courses": [],
-      "highlights": [
-        "Former Registered and Licensed Practitioner under Karnataka State Dental Council (KSDC)"
-      ]
+      "highlights": ["Former Registered and Licensed Practitioner under Karnataka State Dental Council (KSDC)"]
     }
   ],
   "certificates": [
@@ -226,41 +224,19 @@
       "name": "Programming & Data",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "SQL",
-        "R",
-        "Pandas",
-        "Jupyter Notebooks",
-        "Machine Learning"
-      ]
+      "keywords": ["Python", "SQL", "R", "Pandas", "Jupyter Notebooks", "Machine Learning"]
     },
     {
       "name": "Web & Applications",
       "level": "",
       "icon": "fa-solid fa-globe",
-      "keywords": [
-        "Flask",
-        "REST APIs",
-        "PHP",
-        "Drupal",
-        "HTML5/CSS3/JavaScript",
-        "Apache Cordova",
-        "Heroku"
-      ]
+      "keywords": ["Flask", "REST APIs", "PHP", "Drupal", "HTML5/CSS3/JavaScript", "Apache Cordova", "Heroku"]
     },
     {
       "name": "Tools & Platforms",
       "level": "",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "GitHub",
-        "VS Code",
-        "JIRA",
-        "Tableau",
-        "Business Objects",
-        "Windmill"
-      ]
+      "keywords": ["GitHub", "VS Code", "JIRA", "Tableau", "Business Objects", "Windmill"]
     }
   ],
   "languages": [
@@ -289,45 +265,26 @@
     {
       "name": "Healthcare Data Analytics",
       "icon": "fa-solid fa-heart-pulse",
-      "keywords": [
-        "Data Pipeline Design",
-        "Quality Improvement Reporting",
-        "Clinical Data Workflows",
-        "EHR Integration"
-      ]
+      "keywords": ["Data Pipeline Design", "Quality Improvement Reporting", "Clinical Data Workflows", "EHR Integration"]
     },
     {
       "name": "Data Engineering & Automation",
       "icon": "fa-solid fa-gears",
-      "keywords": [
-        "ETL Pipelines",
-        "Vendor Data Integration",
-        "Reporting Automation",
-        "Data Quality & Validation"
-      ]
+      "keywords": ["ETL Pipelines", "Vendor Data Integration", "Reporting Automation", "Data Quality & Validation"]
     }
   ],
   "projects": [
     {
       "name": "ML Models for Radiotherapy Factors and Toxicity Correlation",
       "summary": "Built Machine Learning models to analyze correlations between radiotherapy metrics (Beam Modality, Beam Energy) and adverse effects (dermatitis, pain). Applied Logistic Regression, Image Processing, Gaussian Naive Bayes, and Random Forest Decision Trees.",
-      "highlights": [
-        "Logistic Regression",
-        "Random Forest",
-        "Image Processing"
-      ],
+      "highlights": ["Logistic Regression", "Random Forest", "Image Processing"],
       "startDate": "",
       "endDate": ""
     },
     {
       "name": "Mortality Rate Prediction for Myocardial Infarction",
       "summary": "Worked with the WHO MONICA dataset to predict mortality rate for patients with Myocardial Infarction. Conducted exploratory data analysis of 6,000+ patient records using Pandas and NumPy.",
-      "highlights": [
-        "XGBoost",
-        "SVM",
-        "Neural Networks",
-        "KNN"
-      ],
+      "highlights": ["XGBoost", "SVM", "Neural Networks", "KNN"],
       "startDate": "",
       "endDate": ""
     }
