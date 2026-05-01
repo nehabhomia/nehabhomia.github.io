@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses taught at the University of Michigan School of Information.
 nav: true
 nav_order: 6
@@ -11,6 +11,7 @@ calendar: false
 ## University of Michigan School of Information
 
 **Adjunct Lecturer** | April 2021 - Present
+
 
 ### Courses Taught
 

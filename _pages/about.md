@@ -13,7 +13,7 @@ profile:
     <p>nehabhomia@gmail.com</p>
     <p>Ann Arbor, MI</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -34,6 +34,7 @@ I currently support data infrastructure and reporting work across the University
 My technical work includes Python, pandas, SQL, JSON processing, API integrations, data validation, automated reporting, and documentation for reproducible analytics workflows. I am especially interested in data quality, transparency, lineage, and building systems that are maintainable beyond a single analyst or developer.
 
 I also teach graduate-level healthcare data analytics, where I help students develop practical skills in data cleaning, analysis, interpretation, and communication using real-world healthcare contexts.
+
 
 ## Areas of Focus
 
