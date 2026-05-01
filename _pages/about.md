@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>(734)936-0072</p>
-    <p>nehabhomia@gmail.com</p>
+    <p>nehab@umich.edu</p>
     <p>Ann Arbor, MI</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
